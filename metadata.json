@@ -1,0 +1,6 @@
+{
+  "name": "SurfFlow - Sistema de Agendamento e Gestão de Escolinhas de Surf",
+  "description": "Plataforma completa para escolinhas de surf: agendamento de aulas com escolha de instrutor e horário, painel do professor com chamada e avaliação pós-aula, gestão financeira de mensalidades, relatórios de desempenho e exportação PDF/Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
